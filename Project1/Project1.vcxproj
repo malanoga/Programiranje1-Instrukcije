@@ -140,7 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Digitron.cpp" />
+    <ClCompile Include="DoWhile.cpp" />
+    <ClCompile Include="SahovskaTabla.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="Source2.cpp" />
+    <ClCompile Include="Source3.cpp" />
+    <ClCompile Include="Klubovi.cpp" />
     <ClCompile Include="Vjezba5.cpp" />
     <ClCompile Include="Z1.cpp" />
     <ClCompile Include="ZAD2.cpp" />

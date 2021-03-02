@@ -22,9 +22,9 @@ void obrni(int a) {
 
 }
 
-int main() {
+int Z6main() {
 	int a;
-	int b;
+	//int b;
 
 	do
 	{
