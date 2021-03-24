@@ -1,2 +1,10 @@
 ﻿  Klubovi.cpp
-  Project1.vcxproj -> C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\x64\Debug\Project1.exe
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Klubovi.cpp(133,2): error C2065: 'Liga': undeclared identifier
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Klubovi.cpp(133,7): error C2146: syntax error: missing ';' before identifier 'liga'
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Klubovi.cpp(133,7): error C2065: 'liga': undeclared identifier
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Klubovi.cpp(150,17): error C2065: 'liga': undeclared identifier
+  Vjezba5.cpp
+  Zadatak6.cpp
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Zadatak6.cpp(61,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\adis.sertovic\source\repos\VjezbaZaIspit\Project1\Zadatak6.cpp(62,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

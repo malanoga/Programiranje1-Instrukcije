@@ -157,6 +157,9 @@
     <ClCompile Include="Zadatak6.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Fudbaler.h" />
+    <ClInclude Include="Klub.h" />
+    <ClInclude Include="Liga.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
